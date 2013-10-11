@@ -1,0 +1,14 @@
+F-8" standalone="yes"?>
+	<javaObject>
+		<age>28</age>
+		<name>Json</name>
+		<role>Moderator</role>
+	</javaObject>
+
+
+Name [Json], Role [Moderator], Age [28]
+
+t="SimSoDep.Com - SimSoDep.Vn">
+<meta name="publisher<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site2.master.cs" Inherits="SimCardOnline.Site2" %>
+<%@ Register Src="uc/MiniCart.ascx" TagName="MiniCart" TagPrefix="uc5" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-t

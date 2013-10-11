@@ -1,0 +1,23 @@
+nt="all">
+
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+	<javaObject>
+		<age>28</age>
+		<name>Json</name>
+		<role>Moderator</role>
+	</javaObject>
+
+
+Name [Json], Role [Moderator], Age [28]
+
+<age>28</age>
+		<name>Json</name>
+		<role>Moderator</role>
+	</javaObject>
+
+
+Name [Json], Role [Moderator], Age [28]
+
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site2.master.cs" Inherits="SimCardOnline.Site2" %>
+<%@ Register Src="uc/MiniCart.ascx" TagName="MiniCart" TagPre
